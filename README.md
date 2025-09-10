@@ -14,5 +14,5 @@ I chose to dive into this topic because understanding the theory behind A/B test
   These tests rely on ideas like independent samples and equal variance to give reliable results.
 
 ## Next Steps  
-If you want to see these ideas in action with practical examples and code, check out the `Statistical Analysis.md` in this repository. 
+If you want to see these ideas in action with practical examples and code, check out the `Statistical Analysis.md` in this repository or [Exeplore The Notebook](https://colab.research.google.com/drive/1v9SZgMR8WYIcuMgd7C-LESFC31Uo0ffG?usp=sharing). 
 It’s where the theory comes to life😋
